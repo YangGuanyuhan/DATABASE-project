@@ -1,6 +1,6 @@
 # README
 
-**杨官宇涵12313614 （Wednesday 1-2）**（0.5）
+**杨官宇涵 （Wednesday 1-2）**（0.5）
 
 task：
 
@@ -11,7 +11,7 @@ task：
 
 
 
-**汤深尧12313624（Wednesday 1-2）**（0.5）
+**（Wednesday 1-2）**（0.5）
 
 task：
 
